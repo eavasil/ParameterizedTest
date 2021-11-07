@@ -3,8 +3,8 @@
 'not registered < limit',100060,false,10
 'registered > limit',2646165423186156456,false,500
 'registered and amount - 0 ',0,true,0
-'registered amount -',-5465325624,true,0
-'registered not valid',t,true,0
+
+
 
 
 
